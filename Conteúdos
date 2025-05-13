@@ -1,6 +1,6 @@
 <!doctype html>
-<html lang="en">
-
+<html lang="en"> 
+    
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,7 +30,7 @@ background-size: 100% 100%;" style="opacity:1">
 						<a class="nav-link" href="Produtos.html">Produtos</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="Conteudos.html">Conteúdos</a>
+						<a class="nav-link" href="#">Conteúdos</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#">Lançamentos </a>
@@ -43,46 +43,8 @@ background-size: 100% 100%;" style="opacity:1">
 		</div>
 		<h1>VALENN</h1>
 	</nav>
-	<div class="row row-cols-1 row-cols-md-3 g-4">
-		<div class="col">
-			<div class="card h-100">
-				<img src="imagem222.png" class="card-img-top" alt="imagem222.png">
-				<div class="card-body">
-					<h5 class="card-title">DICAS</h5>
-					<p class="card-text">Dicas para se vestir.</p>
-				</div>
-				<div class="card-footer">
-					<small class="text-body-secondary">Last updated 3 mins ago</small>
-				</div>
-			</div>
-		</div>
-		<div class="col">
-			<div class="card h-100">
-				<img src="imagem3.png" class="card-img-top" alt="imagem3.png">
-				<div class="card-body">
-					<h5 class="card-title">GUARDA-ROUPA</h5>
-					<p class="card-text">Dicas de como montar um bom Guarda-Roupa.</p>
-				</div>
-				<div class="card-footer">
-					<small class="text-body-secondary">Last updated 3 mins ago</small>
-				</div>
-			</div>
-		</div>
-		<div class="col">
-			<div class="card h-100">
-				<img src="tumb3.png" class="card-img-top" alt="tumb3.png">
-				<div class="card-body">
-					<h5 class="card-title">ESSENCIAIS</h5>
-					<p class="card-text">Itens essenciais no stret</p>
-				</div>
-				<div class="card-footer">
-					<small class="text-body-secondary">Last updated 3 mins ago</small>
-				</div>
-			</div>
-		</div>
-	</div>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
-		integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous">
-		</script>
-
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq"
+		crossorigin="anonymous"> 
+	</script>
 </html>
